@@ -32,6 +32,5 @@ print "There are ",vendors_tuple.count('Juniper'), "Juniper value in the tuple"
 print type(None)
 print None == 100
 a=None
-print a
-
+print 
 raw_input()
